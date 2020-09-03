@@ -1,0 +1,539 @@
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.8125
+--------random ------------
+Rand Pr(D2D): 0.935
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.43
+--------random ------------
+Rand Pr(D2D): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.425
+--------random ------------
+Rand Pr(D2D): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.4975
+--------random ------------
+Rand Pr(D2D): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.425
+--------random ------------
+Rand Pr(D2D): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.6825
+--------random ------------
+Rand Pr(D2D): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.965
+--------random ------------
+Rand Pr(D2D): 0.935
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.375
+--------random ------------
+Rand Pr(D2D): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.855
+--------random ------------
+Rand Pr(D2D): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.95
+--------random ------------
+Rand Pr(D2D): 0.9475
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.95
+--------random ------------
+Rand Pr(D2D): 0.9475
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.765
+--------random ------------
+Rand Pr(D2D): 0.8025
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.3975
+--------random ------------
+Rand Pr(D2D): 0.5425
+-------- marl, marl_model------
+n_veh: 4
+Pr(V2V): 0.375
+-------- sarl, sarl_model------
+n_veh: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.325
+--------random ------------
+Rand Pr(D2D): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(D2D): 0.325
+--------random ------------
+Rand Pr(D2D): 0.57
+-------- marl, marl_model------
+n_veh: 4
+Pr(V2V): 0.8875
+-------- sarl, sarl_model------
+n_veh: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.9975
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.935
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.995
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.835
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 1.0
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.995
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.8125
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.3675
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.7575
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.195
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.6825
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.1
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.52
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.0675
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.8875
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.57
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.94
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.7425
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.94
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.0
+--------random ------------
+Rand Pr(V2V): 0.7425
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.94
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 7319379.99684
+--------random ------------
+Rand Pr(V2V): 0.7425
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.94
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.7425
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.94
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.7425
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.52
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.0675
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.18
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.9975
+--------random ------------
+Rand Pr(V2V): 0.0125
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.29
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.9975
+--------random ------------
+Rand Pr(V2V): 0.0725
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.47
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.9975
+--------random ------------
+Rand Pr(V2V): 0.1025
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.4825
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.08
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.825
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.45
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.895
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.56
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.99
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.9775
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.995
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.995
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.96
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.9375
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.9725
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.935
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.93
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.745
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.8275
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.58
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.81
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.9975
+--------random ------------
+Rand Pr(V2V): 0.43
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.685
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.9975
+--------random ------------
+Rand Pr(V2V): 0.3175
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.6875
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.265
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.695
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.9975
+--------random ------------
+Rand Pr(V2V): 0.2175
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.715
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.1725
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.5475
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.995
+--------random ------------
+Rand Pr(V2V): 0.0
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.48
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.9975
+--------random ------------
+Rand Pr(V2V): 0.0
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 1.0
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.0
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.9675
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.985
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.9825
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.9825
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.9925
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.995
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.395
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 0.9975
+--------random ------------
+Rand Pr(V2V): 0.6175
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.615
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.6
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.585
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.5825
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.6775
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.65
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.89
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.8725
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.81
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.6225
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.6675
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.2675
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.6675
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.36
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.7475
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.565
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.815
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.5375
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.9275
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.8075
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.9825
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.97
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 1.0
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 1.0
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.99
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.9775
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.9875
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.9875
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.905
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.0
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.945
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.0
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.9875
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.965
+-------- marl, marl_model------
+numUsers: 4
+Pr(V2V): 0.8325
+-------- sarl, sarl_model------
+numUsers: 4
+Pr(V2V): 1.0
+--------random ------------
+Rand Pr(V2V): 0.035
